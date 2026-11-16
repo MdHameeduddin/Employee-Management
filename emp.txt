@@ -1,0 +1,5 @@
+Employee Management System
+
+Features:
+1. Add Employee
+2. View Employee
